@@ -1,0 +1,14 @@
+F:\Les\p1\P01Pogoda\bin\Debug\net10.0\P01Pogoda.exe
+F:\Les\p1\P01Pogoda\bin\Debug\net10.0\P01Pogoda.deps.json
+F:\Les\p1\P01Pogoda\bin\Debug\net10.0\P01Pogoda.runtimeconfig.json
+F:\Les\p1\P01Pogoda\bin\Debug\net10.0\P01Pogoda.dll
+F:\Les\p1\P01Pogoda\bin\Debug\net10.0\P01Pogoda.pdb
+F:\Les\p1\P01Pogoda\obj\Debug\net10.0\P01Pogoda.GeneratedMSBuildEditorConfig.editorconfig
+F:\Les\p1\P01Pogoda\obj\Debug\net10.0\P01Pogoda.AssemblyInfoInputs.cache
+F:\Les\p1\P01Pogoda\obj\Debug\net10.0\P01Pogoda.AssemblyInfo.cs
+F:\Les\p1\P01Pogoda\obj\Debug\net10.0\P01Pogoda.csproj.CoreCompileInputs.cache
+F:\Les\p1\P01Pogoda\obj\Debug\net10.0\P01Pogoda.dll
+F:\Les\p1\P01Pogoda\obj\Debug\net10.0\refint\P01Pogoda.dll
+F:\Les\p1\P01Pogoda\obj\Debug\net10.0\P01Pogoda.pdb
+F:\Les\p1\P01Pogoda\obj\Debug\net10.0\P01Pogoda.genruntimeconfig.cache
+F:\Les\p1\P01Pogoda\obj\Debug\net10.0\ref\P01Pogoda.dll
